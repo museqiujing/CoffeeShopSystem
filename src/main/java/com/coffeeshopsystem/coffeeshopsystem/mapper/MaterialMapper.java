@@ -1,7 +1,7 @@
 package com.coffeeshopsystem.coffeeshopsystem.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.coffeeshopsystem.coffeeshopsystem.model.Material;
+import com.coffeeshopsystem.coffeeshopsystem.entity.Material;
 import org.apache.ibatis.annotations.Mapper;
 
 @Mapper
